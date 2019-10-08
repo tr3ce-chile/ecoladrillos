@@ -1935,6 +1935,44 @@ body {
 .cid-rCL13FrbED H4 {
   color: #9de616;
 }
+.cid-rEkZuwBIZy {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  position: relative;
+  background-color: #f9f9f9;
+}
+.cid-rEkZuwBIZy .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rEkZuwBIZy .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rEkZuwBIZy .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rEkZuwBIZy .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rEkZuwBIZy .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rEkZuwBIZy .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rEkZuwBIZy .card .panel-body {
+  color: #767676;
+}
 .cid-rCQ7PYbCvB {
   padding-top: 75px;
   padding-bottom: 15px;
@@ -1953,7 +1991,7 @@ body {
 }
 .cid-rCQ5De9zM2 .card-box {
   padding: 2rem;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rCQ5De9zM2 h4 {
   font-weight: 500;
@@ -2084,4 +2122,7 @@ body {
 }
 .cid-rCQjTAlL1v .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rCQjTAlL1v foot-menu-item {
+  color: #9de616;
 }
