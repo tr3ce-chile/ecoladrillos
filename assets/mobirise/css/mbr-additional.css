@@ -1414,6 +1414,13 @@ body {
   background: #149dcc !important;
   box-shadow: none !important;
 }
+.cid-rEl618yrSP {
+  background-color: #9de616;
+}
+.cid-rEl618yrSP .mbr-text,
+.cid-rEl618yrSP .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rC6o4WShVD .navbar {
   background: #ffffff;
   transition: none;
